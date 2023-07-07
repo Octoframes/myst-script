@@ -19,4 +19,4 @@ format: jb-book
 root: index
 chapters:
   - file: 01-hello
-  - file: media_notebook
+  # - file: media_notebook
